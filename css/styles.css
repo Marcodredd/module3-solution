@@ -6,7 +6,7 @@ html, body {
 .navbar {
   border-bottom: 2px solid black;
   margin-right: -1px;
-  background-color: lightgray;
+  background-color: #CCCCCC;
 }
 
 #p1 {
@@ -21,7 +21,7 @@ html, body {
 
 .navbar-brand {
   font-size: 25px;
-  font-family: arial black;
+  font-family: Maison Neue Regular;
   font-weight: bold;
 }
 
