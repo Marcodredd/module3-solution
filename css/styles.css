@@ -34,12 +34,13 @@ a.beef {
 @media (max-width: 767px) {
   #navbar {
   border-top: 2px solid black;
+  }
+  .collapse {
+    background-color: white;
+  }
 }
 
-.navbar-toggle {
-  text-shadow: 1px;
-}
-}
+
 
 
 
